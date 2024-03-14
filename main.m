@@ -1,6 +1,5 @@
 clear all; close all;
 
-tic;
 reference_path = 'E:\test\input\'; %  Input files
 reference_path2 = 'E:\output\'
 image_files = dir(fullfile(reference_path, '*.png')); 
