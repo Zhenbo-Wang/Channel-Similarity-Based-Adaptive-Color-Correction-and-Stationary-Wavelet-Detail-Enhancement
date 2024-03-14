@@ -1,3 +1,4 @@
-# Underwater Image Enhancement via Adaptive Color Correction and Stationary Wavelet Detail Enhancement For IEEE ACCESS
+# Underwater Image Enhancement via Adaptive Color Correction and Stationary Wavelet Detail Enhancement
 
-In the process of submission.
+1.Run the main.m first to get preliminary results 
+2.Run main.py to get the final results
